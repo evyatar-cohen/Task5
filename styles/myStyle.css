@@ -1,0 +1,171 @@
+body {
+    direction: rtl;
+    background-image: url('../images/author-blog-businesswoman-267569.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: -webkit-fill-available;
+    width: -webkit-fill-available;
+    position: fixed;
+}
+
+#container {
+    width: 1350px;
+    height: 650px;
+    margin: 0 auto;
+    position: relative;
+    margin-top: 10px;
+}
+
+#div1 {
+    background-color: rgba(244, 244, 244, 0.7);
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border-radius: 10px 10px 10px 10px;
+    display: inline-block;
+    float: left;
+    margin-left: 50px;
+    width: 300px;
+}
+
+#logo {
+    width: 300px;
+    height: 200px;
+}
+
+#div2 {
+    background-color: rgba(244, 244, 244, 0.7);
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border-radius: 10px 10px 10px 10px;
+    display: inline-block;
+    width: 900px;
+    height: 205px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 70pt;
+    color: #018285;
+    font-family: calibri;
+}
+
+#div2 p {
+    font-size: 15pt;
+    padding-right: 30px;
+    font-family: Calibri;
+    color: #018285;
+}
+
+
+#one {
+    height: 300px;
+    margin-top: 100px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border-radius: 10px 10px 10px 10px;
+    display: inline-block;
+    float: right;
+    width: 293.333px;
+    background-color: rgba(244, 244, 244, 0.7);
+}
+
+h2 {
+    text-align: center;
+    font-size: 20px;
+    font-family: Calibri;
+    color: #018285;
+}
+
+#one p {
+    font-size: 15px;
+    font-family: Calibri;
+    color: #018285;
+    padding: 10px;
+}
+
+#two {
+    height: 300px;
+    margin-top: 100px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border-radius: 10px 10px 10px 10px;
+    display: inline-block;
+    float: right;
+    margin-right: 10px;
+    width: 293.333px;
+    background-color: rgba(244, 244, 244, 0.7);
+}
+
+    #two p {
+        font-size: 15px;
+        font-family: Calibri;
+        color: #018285;
+        padding: 10px;
+    }
+
+#three {
+    height: 300px;
+    margin-top: 100px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border-radius: 10px 10px 10px 10px;
+    display: inline-block;
+    float: right;
+    margin-right: 10px;
+    width: 293.333px;
+    background-color: rgba(244, 244, 244, 0.7);
+}
+
+    #three p {
+        font-size: 15px;
+        font-family: Calibri;
+        color: #018285;
+        padding: 10px;
+    }
+
+.icons {
+    height: 100px;
+    width: 200px;
+    margin-right: 40px;
+}
+
+#theform {
+    margin-top: 100px;
+    background-color: rgba(244, 244, 244, 0.7);
+    width: 290px;
+    height: 300px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border-radius: 10px 10px 10px 10px;
+    display: inline-block;
+    float: left;
+    margin-left: 50px;
+    padding-right: 10px;
+    color: #018285;
+}
+
+.radio {
+    color: #018285;
+}
+
+
+input[type=text] {
+    border: 1px solid #018285;
+    border-radius: 6px;
+    font-family: calibri;
+    margin-top: -30px;
+    margin-right: 20px;
+}
+
+input[type=submit] {
+    border: 1px solid #018285;
+    border-radius: 10px;
+    color: white;
+    background-color: #018285;
+    width: 200px;
+    height: 50px;
+    font-size: 20pt;
+    margin-top: 15px;
+    margin-right: 42px;
+    font-family: calibri;
+}
+
+div article form p {
+    margin-right: 20px;
+    font-family: calibri;
+}
